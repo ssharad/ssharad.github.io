@@ -1,64 +1,56 @@
-/*header*/
-.header{
-  background-color:#F44336;
-  color:#fff;
-  height:600px;
+body {
+    position: relative; 
+}
+
+/*sections - add background and text colors, extend height based on content*/
+#section1 {padding-top:50px;height:500px;color: #fff; background-color: #1E88E5;overflow:hidden;
+height:1%;}
+#section2 {padding-top:50px;height:900px;color: #fff; background-color: #673ab7;overflow:hidden;
+height:1%;}
+#section3 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;overflow:hidden;
+height:1%;}
+#section4 {padding-top:50px;height:500px;color: #fff; background-color: #ff9800;overflow:hidden;
+height:1%;}
+#section5 {padding-top:10px;height:10px;color: #fff; background-color: #000000;overflow:hidden;
+height:1%;}
+
+h4{
   text-align: center;
 }
 
-/*Navigation with affix and scrollspy*/
-.affix {
-      top: 0;
-      width: 100%;
-      z-index: 9999 !important;
+.navLink {
+  color: white;
+  text-decoration: underline;
 }
 
-.affix + .container-fluid {
-      padding-top: 70px;
+/*bullets in research*/
+ul{
+  list-style-type:disc;
+}
+
+/*Gallery with thumbnails*/
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
 }
 
 /*footer with social links*/
-.bg-primary {
- background-color: #000 !important;
-}
-
-.bg-circle
-{
-  display: inline-block;
-  width: 60px;
-  height: 60px;
-  padding: 14px 4px;
-  color: #ececec;
-  text-align: center;
-  border-radius: 50%;
-}
-
-.bg-circle-outline
-{
-  width: 50px;
-  height: 50px;
-  color:smoke;
-  padding: 8px 2px;
-  border: 2px solid;
-  border-color: smoke;
-  border-radius: 50%;
-}
-
-
-.bg-circle a, a:hover, .media a:focus
-{
-  text-decoration: none !important;
-  outline: none;
-  color: #ececec;
-}
-.bg-circle-outline a, a:hover, .media a:focus
-{
-  text-decoration: none !important;
-  outline: none;
-  color: #ececec;
-}
-
-
 .footer {
   background: #061D25;
   padding: 10px 0;
@@ -76,3 +68,4 @@
 .footer a:hover {
   color: white;
 }
+
