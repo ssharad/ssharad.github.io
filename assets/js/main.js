@@ -22,38 +22,6 @@ jQuery(document).ready(function($) {
     /* Bootstrap Tooltip for Skillset */
     $('.level-label').tooltip();
     
-    
-    /* jQuery RSS - https://github.com/sdepold/jquery-rss */
-    
-    $("#rss-feeds").rss(
-    
-        //Change this to your own rss feeds
-        "https://journalofthegeek.wordpress.com/feed/",
-        
-        {
-        // how many entries do you want?
-        // default: 4
-        // valid values: any integer
-        limit: 3,
-        
-        // the effect, which is used to let the entries appear
-        // default: 'show'
-        // valid values: 'show', 'slide', 'slideFast', 'slideSynced', 'slideFastSynced'
-        effect: 'slideFastSynced',
-        
-        // outer template for the html transformation
-        // default: "<ul>{entries}</ul>"
-        // valid values: any string
-        layoutTemplate: "<div class='item'>{entries}</div>",
-        
-        // inner template for each entry
-        // default: '<li><a href="{url}">[{author}@{date}] {title}</a><br/>{shortBodyPlain}</li>'
-        // valid values: any string
-        entryTemplate: '<h3 class="title"><a href="{url}" target="_blank">{title}</a></h3><div><p>{shortBodyPlain}</p><a class="more-link" href="{url}" target="_blank"><i class="fa fa-external-link"></i>Read more</a></div>'
-        
-        }
-    );
-    
     /* jQuery RSS - https://github.com/sdepold/jquery-rss */
     
      $("#medium-feeds").rss(
@@ -65,7 +33,7 @@ jQuery(document).ready(function($) {
         // how many entries do you want?
         // default: 4
         // valid values: any integer
-        limit: 3,
+        limit: 5,
         
         // the effect, which is used to let the entries appear
         // default: 'show'
