@@ -50,8 +50,11 @@ a.btn {
   padding: 8px 16px;
   font-weight: bold;
 }
-.btn .fa,
-a.btn .fa {
+.btn .fa,.btn .fab,
+a.btn .fa{
+  margin-right: 5px;
+}
+a.btn .fab{
   margin-right: 5px;
 }
 .btn:focus,
@@ -101,19 +104,7 @@ a.dotted-link:hover {
   text-decoration: none;
   color: #49515a;
 }
-/*
-iframe {
 
-    .header {
-        padding: 0;
-    }
-}
-
-.iframe-wrapper {
-    overflow: auto;
-    -webkit-overflow-scrolling:touch;
-}
-*/
 /* ======= Header ======= */
 .header {
   padding: 30px 0;
@@ -160,7 +151,13 @@ iframe {
 .header .profile-content .social a:hover {
   background: #778492;
 }
-.header .profile-content .social a .fa {
+.header .profile-content .social a .fa{
+  font-size: 20px;
+  padding-top: 8px;
+  display: inline-block;
+}
+
+.header .profile-content .social a .fab{
   font-size: 20px;
   padding-top: 8px;
   display: inline-block;
@@ -183,7 +180,11 @@ iframe {
   color: #545e69;
   font-size: 24px;
 }
-.section .content .more-link .fa {
+.section .content .more-link .fa{
+  margin-right: 5px;
+  font-size: 14px;
+}
+.section .content .more-link .fab{
   margin-right: 5px;
   font-size: 14px;
 }
@@ -295,65 +296,8 @@ iframe {
 .projects .item .title a:hover {
   color: #5f6b77;
 }
-/* Work Section */
-.experience .item {
-  margin-bottom: 30px;
-}
-.experience .item .title {
-  font-size: 16px;
-  margin-top: 0;
-  margin-bottom: 5px;
-  line-height: 1.5;
-}
-.experience .item .title .place {
-  color: #999;
-  font-weight: normal;
-}
-.experience .item .title .place a {
-  color: #999;
-}
-.experience .item .title .place a:hover {
-  color: #666666;
-}
-.experience .item .title .year {
-  color: #999;
-  font-weight: normal;
-}
-/* Git section */
-.github-graph {
-  margin-bottom: 30px;
-}
-.github-graph .js-calendar-graph-svg {
-  max-width: 100%;
-}
-.ghfeed {
-  height: 600px;
-}
-.ghfeed,
-.ghfeed *,
-.ghfeed *:before,
-.ghfeed *:after {
-  -webkit-box-sizing: content-box;
-  -moz-box-sizing: content-box;
-  box-sizing: content-box;
-}
-/* Info Section */
-.info .fa {
-  margin-right: 15px;
-  color: #ccd1d6;
-}
-.info .fa.fa-envelope-o {
-  font-size: 14px;
-}
-.info ul {
-  margin-bottom: 0;
-}
-.info li {
-  margin-bottom: 15px;
-}
-.info li:last-child {
-  margin-bottom: 0;
-}
+
+
 /* Skills Section */
 .skills .intro {
   margin-bottom: 30px;
@@ -384,35 +328,7 @@ iframe {
   height: 15px;
   background: #66cb8c;
 }
-/* Testimonials section */
-.testimonials .item {
-  margin-bottom: 30px;
-}
-.testimonials .item:last-child {
-  margin-bottom: 0;
-}
-.testimonials .item .quote {
-  color: #666;
-  font-size: 16px;
-  border-left-color: #9fdeb7;
-  margin-bottom: 15px;
-}
-.testimonials .item .quote .fa {
-  color: #79d19a;
-  margin-right: 15px;
-}
-.testimonials .item .source {
-  font-size: 14px;
-  padding-left: 30px;
-  font-weight: 500;
-}
-.testimonials .item .source .name {
-  color: #939ea9;
-  font-weight: 600;
-}
-.testimonials .item .source .title {
-  color: #999;
-}
+
 /* Education section */
 .education .item {
   margin-bottom: 30px;
@@ -468,19 +384,7 @@ iframe {
 .blog .item:last-child {
   margin-bottom: 0;
 }
-/* List section */
-.list ul li {
-  margin-bottom: 10px;
-}
-.list ul li .fa {
-  margin-right: 5px;
-}
-.list ul li a {
-  color: #778492;
-}
-.list ul li a:hover {
-  color: #49515a;
-}
+
 /* Credits */
 .credits ul li {
   margin-bottom: 10px;
