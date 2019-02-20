@@ -3,11 +3,11 @@ layout: archive
 permalink: /projects/
 title: "Prototypes Portfolio "
 author_profile: true
-header:
-  image: "/images/site/chris-ried-512801-unsplash.jpg"
+# header:
+#   image: "/images/site/chris-ried-512801-unsplash.jpg"
 ---
 <!-- Tags used here are the libraries and purpose -->
-{% include base_path %}
+
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
