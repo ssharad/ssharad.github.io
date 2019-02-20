@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" #  "default", "dark", "dirt"
+minimal_mistakes_skin    : "default" #  "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Sharad Shriram"
@@ -143,6 +143,8 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
+  - _projects
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
