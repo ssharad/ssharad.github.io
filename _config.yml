@@ -284,10 +284,4 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _projects
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
+
