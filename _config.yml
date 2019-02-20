@@ -19,7 +19,7 @@ title                    : "Sharad Shriram"
 title_separator          : "-"
 name                     : "Sharad Shriram"
 description              : "A academic and portfolio website."
-url                      : "https://sharadshriram.github.io"
+url                      : #"https://sharadshriram.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -143,8 +143,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _posts
-  - _projects
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
