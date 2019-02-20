@@ -20,7 +20,7 @@ title                    : "Sharad Shriram"
 title_separator          : "-"
 name                     : "Sharad Shriram"
 description              : "A academic and portfolio website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sharadshriram.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -114,12 +114,12 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      #url: mailto:your.name@email.com
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/drowzyNerd"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/sharadshriram"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -131,16 +131,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/drowzyNerd"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      #url: "https://twitter.com/drowzyNerd"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sharadshriram/"
+      #url: "https://github.com/sharadshriram/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      #url: mailto:your.name@email.com
 
 
 # Reading Files
@@ -171,8 +168,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+
 keep_files:
   - .git
   - .svn
@@ -289,4 +285,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  # _projects
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
