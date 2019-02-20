@@ -4,7 +4,7 @@ permalink: /blog/
 title: "Random Musings of an aspiring researchers"
 author_profile: true
 header:
-    image: "assets/images/site/green-chameleon-21532-unsplash.jpg"
+    image: "/images/site/green-chameleon-21532-unsplash.jpg"
 ---
 <!-- Tags used here are the category of the post -->
 {% include base_path %}

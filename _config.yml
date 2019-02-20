@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "Sharad Shriram"
-  avatar           : "/assets/images/bio-photo.png"
+  avatar           : "/images/bio-photo.png"
   bio              : "MSc. Computer Science student at the TU Delft"
   location         : "Delft, Netherlands"
   email            :
@@ -277,7 +277,8 @@ defaults:
       comments: # true
       share: true
       related: true
-  #_pages
+
+  # _pages
   - scope:
       path: ""
       type: pages
@@ -285,3 +286,14 @@ defaults:
       layout: single
       author_profile: true
 
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
