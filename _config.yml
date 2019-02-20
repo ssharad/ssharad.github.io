@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" #  "default", "dark", "dirt"
+minimal_mistakes_skin    : "default" #  "default", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Sharad Shriram"
