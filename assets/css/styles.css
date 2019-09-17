@@ -544,6 +544,9 @@ a.dotted-link:hover {
 }
 
 /* Blog Section */
+.blog{
+  height: 700px;
+}
 .blog .item {
   margin-bottom: 30px;
 }
