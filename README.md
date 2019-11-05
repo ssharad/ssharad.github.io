@@ -1,5 +1,6 @@
 ### About
-The personal and academic website of Sharad Shriram
+The personal and academic website of Sharad Shriram.
+All the content and images in the website are copyrighted by the site owner.
 
 ### Credits
 	Theme:
