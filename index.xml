@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sharad Shriram</title>
-    <link>http://sharadshriram.github.io/</link>
+    <link>https://sharadshriram.github.io/</link>
     <description>Recent content on Sharad Shriram</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     
-	<atom:link href="http://sharadshriram.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sharadshriram.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
