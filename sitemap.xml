@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://sharadshriram.github.io/research/</loc>
+    <lastmod>2020-02-28T10:52:24+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharadshriram.github.io/</loc>
+    <lastmod>2020-02-28T10:52:24+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharadshriram.github.io/projects/</loc>
+    <lastmod>2020-02-28T10:52:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sharadshriram.github.io/about/</loc>
+    <lastmod>2020-02-27T19:26:06+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sharadshriram.github.io/tags/archive/</loc>
     <lastmod>2020-02-27T19:13:14+05:30</lastmod>
   </url>
@@ -24,11 +44,6 @@
   
   <url>
     <loc>http://sharadshriram.github.io/posts/</loc>
-    <lastmod>2020-02-27T19:13:14+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://sharadshriram.github.io/</loc>
     <lastmod>2020-02-27T19:13:14+05:30</lastmod>
   </url>
   
