@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sharad Shriram</title>
-    <link>https://sharadshriram.github.io/tags/</link>
+    <link>http://sharadshriram.github.io/tags/</link>
     <description>Recent content in Tags on Sharad Shriram</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Feb 2020 19:13:14 +0530</lastBuildDate>
     
-	<atom:link href="https://sharadshriram.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sharadshriram.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>archive</title>
+      <link>http://sharadshriram.github.io/tags/archive/</link>
+      <pubDate>Thu, 27 Feb 2020 19:13:14 +0530</pubDate>
+      
+      <guid>http://sharadshriram.github.io/tags/archive/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
