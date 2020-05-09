@@ -6,10 +6,19 @@
     <description>Recent content on Sharad Shriram</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Feb 2020 10:52:24 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 14:09:06 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Sharad</title>
+      <link>/about/</link>
+      <pubDate>Fri, 10 Apr 2020 14:09:06 +0530</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am currently working with the Centre for Networked Intelligence at the Indian Institute of Science, Bangalore, India. Prior to my current position, I completed my masters in Computer Science (August 2019) with a specialization in Data Science and Technology from the Web Information Systems group, at the Delft University of Technology under the supervision of Prof. Dr. ir. Alessandro Bozzon. I hold a B.Tech. in Computer Science and Engineering from Amrita University, Coimbatore.</description>
+    </item>
     
     <item>
       <title>Research</title>
@@ -17,7 +26,8 @@
       <pubDate>Fri, 28 Feb 2020 10:52:24 +0530</pubDate>
       
       <guid>/research/</guid>
-      <description>This page is currently under construction</description>
+      <description>Page to be updated
+Thesis  Master Thesis: &amp;ldquo;A Human-Machine Approach to Preserve Privacy in Image Analysis Crowdsourcing Tasks&amp;quot;, TU Delft (2019).  Peer-reviewed articles Combining Internet of Things and Predictive Analytics  Sharad S, Sivakumar PB, Ananthanarayanan V. An automated system to mitigate loss of life at unmanned level crossings. Procedia computer science. 2016 Jan 1;92:404-9. Sharad S, Sivakumar PB, Narayanan VA. The smart bus for a smart city—A real-time implementation.</description>
     </item>
     
     <item>
@@ -27,15 +37,6 @@
       
       <guid>/projects/</guid>
       <description>This page will house all the projects that I have worked on! This page is currently under construction</description>
-    </item>
-    
-    <item>
-      <title>About Sharad</title>
-      <link>/about/</link>
-      <pubDate>Thu, 27 Feb 2020 19:26:06 +0530</pubDate>
-      
-      <guid>/about/</guid>
-      <description>My name is Sharad Shriram. I am working on building systems and frameworks</description>
     </item>
     
     <item>
