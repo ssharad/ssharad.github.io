@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Sharad Shriram</title>
-    <link>http://sharadshriram.github.io/categories/blog/</link>
+    <link>https://sharadshriram.github.io/categories/blog/</link>
     <description>Recent content in Blog on Sharad Shriram</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 27 Feb 2020 19:13:14 +0530</lastBuildDate>
     
-	<atom:link href="http://sharadshriram.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sharadshriram.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Firstpost from Hugo</title>
-      <link>http://sharadshriram.github.io/posts/2020/2020-02-27-firstpost/</link>
+      <link>https://sharadshriram.github.io/posts/2020/2020-02-27-firstpost/</link>
       <pubDate>Thu, 27 Feb 2020 19:13:14 +0530</pubDate>
       
-      <guid>http://sharadshriram.github.io/posts/2020/2020-02-27-firstpost/</guid>
+      <guid>https://sharadshriram.github.io/posts/2020/2020-02-27-firstpost/</guid>
       <description>Hi!!
 If you are stopping by this page, it&amp;rsquo;s really nice of you to drop by, Thank you!
 It has been a while, like a few years, since I wanted to write and maintain a blog. I had spent close these few years thinking, scribbling and rethinking of what I would want to write about, while my vocabulary witnessed a gradual degradation in the context of an operating system.
