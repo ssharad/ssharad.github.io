@@ -6,30 +6,17 @@
     <description>Recent content on Sharad Shriram</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Feb 2020 19:13:14 +0530</lastBuildDate>
     
 	<atom:link href="https://sharadshriram.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Firstpost from Hugo</title>
-      <link>https://sharadshriram.github.io/posts/2020/2020-02-27-firstpost/</link>
-      <pubDate>Thu, 27 Feb 2020 19:13:14 +0530</pubDate>
-      
-      <guid>https://sharadshriram.github.io/posts/2020/2020-02-27-firstpost/</guid>
-      <description>Hi!!
-If you are stopping by this page, it&amp;rsquo;s really nice of you to drop by, Thank you!
-It has been a while, like a few years, since I wanted to write and maintain a blog. I had spent close these few years thinking, scribbling and rethinking of what I would want to write about, while my vocabulary witnessed a gradual degradation in the context of an operating system.
-In those four years, I had been building some awesome things, mostly as part of my courserwork but now that I think about them, I lost most of my notes working on them.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://sharadshriram.github.io/about/</link>
+      <title>Academic Activities</title>
+      <link>https://sharadshriram.github.io/activities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharadshriram.github.io/about/</guid>
-      <description>I am currently working with the Centre for Networked Intelligence at the Indian Institute of Science, Bangalore, India. Prior to my current position, I completed my masters in Computer Science (August 2019) with a specialization in Data Science and Technology from the Web Information Systems group, at the Delft University of Technology under the supervision of Prof. Dr. ir. Alessandro Bozzon. I hold a B.Tech. in Computer Science and Engineering (2016) from Amrita University, Coimbatore.</description>
+      <guid>https://sharadshriram.github.io/activities/</guid>
+      <description>Teaching  Teaching Assistant, Delft University of Technology  Web Science and Engineering, a graduate course offered in the first period at Faculty of Electrical Engineering, Mathematics and Computer Science (Sep 2018 - Jan2019) Digital Skills, a pilot course to make first-year bachelor students in non-CS programs learn programming in Python (Sep 2018 - Jan2019)    Talks  &amp;ldquo;Working with real-time location data in your IoT projects&amp;rdquo;, Amrita University, Coimbatore, 2016.</description>
     </item>
     
     <item>
@@ -38,27 +25,20 @@ In those four years, I had been building some awesome things, mostly as part of 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sharadshriram.github.io/projects/</guid>
-      <description>I enjoy dabbling on code and some of them end-up mini-projects, some get listed but others can be checked out on Github. I believe that getting your hands dirty helps you learn the tool faster, and sometime I write about my experieces on my blog
+      <description>I enjoy dabbling on code, some towards a large projects while others are explorations of new tools - they are open-sourced and can be found on Github. I hope to update my blog with learning experiences for these projects as and when time permits
 Featured Project  An city-scale agent-based simulator to compare different intervention strategies during an epidemic: Code on Github A hybrid human-machine approach to preserve privacy in images: Code - coming soon!</description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://sharadshriram.github.io/publications/</link>
+      <title>Research</title>
+      <link>https://sharadshriram.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharadshriram.github.io/publications/</guid>
-      <description>This page contains all research publications and manuscripts, a more recent version of this page can be found on Google Scholar
-Manuscripts, White Papers and Technical Reports  P Parag, P Patil, S Shriram, R Sundaresan, H Tyagi, N K. Vaidhiyan. 2020. &amp;ldquo;Antidote&amp;rdquo; for CoVID-19 pandemic induced surge in online learning. ACM SIGCOMM Online Networking Education Discussion workshop. [PDF] P Harsha, S Juneja, P Patil, N Rathod, R Saptharishi, A. Y.</description>
-    </item>
-    
-    <item>
-      <title>Teaching and Talks</title>
-      <link>https://sharadshriram.github.io/teaching-and-talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sharadshriram.github.io/teaching-and-talks/</guid>
-      <description>Teaching  Teaching Assistant, Delft University of Technology  Web Science and Engineering, a graduate course offered in the first period at Faculty of Electrical Engineering, Mathematics and Computer Science (Sep 2018 - Jan2019) Digital Skills, a pilot course to make first-year bachelor students in non-CS programs learn programming in Python (Sep 2018 - Jan2019)    Talks  &amp;ldquo;Working with real-time location data in your IoT projects&amp;rdquo;, Amrita University, Coimbatore, 2016.</description>
+      <guid>https://sharadshriram.github.io/research/</guid>
+      <description>My current research interests are broadly in the topics of Human-centered AI, Natural Language Processing, Edge Intelligence, and Data-driven Modelling.
+This page has a few selected outcomes of ongoing and older research. You can always find the current research outcomes on Google Scholar
+ Master Thesis: &amp;ldquo;A Human-Machine Approach to Preserve Privacy in Image Analysis Crowdsourcing Tasks&amp;rdquo;, TU Delft (2019).
+ Manuscripts and Technical Reports  P Parag, P Patil, S Shriram, R Sundaresan, H Tyagi, N K.</description>
     </item>
     
   </channel>

@@ -1,0 +1,73 @@
+/* Create two unequal columns that floats next to each other */
+.column {
+  padding: 15px;
+  margin: 10px;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+      display: block;
+      margin: 0 auto;
+      width: 100%;
+  }
+  .left{
+    display: none;
+  }
+  .left img{
+    width: 5px;
+    height: 5px;
+  }
+}
+
+.left {
+  float: right;
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+  font-size: 1.5rem;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.avatar img {
+  width: 15rem;
+  height: 15rem;
+  border-radius: 50%;
+}
+
+.social {
+  list-style-type: none;
+  margin-left: 10px;
+}
+
+.social li {
+  margin-bottom: 12px;
+  margin-left: -40px;
+  display: flex;
+  align-items: left;
+  font-size: 1.35rem;
+  color: transparent;
+}
+
+.navigation-title {
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+  font-size: 1.6rem;
+}
+
+.navigation {
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+  font-size: 1.6rem;
+}
+
+.social li a{
+  color: black;
+}

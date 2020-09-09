@@ -3,47 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sharadshriram.github.io/tags/archive/</loc>
-    <lastmod>2020-02-27T19:13:14+05:30</lastmod>
+    <loc>https://sharadshriram.github.io/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sharadshriram.github.io/categories/blog/</loc>
-    <lastmod>2020-02-27T19:13:14+05:30</lastmod>
+    <loc>https://sharadshriram.github.io/activities/</loc>
   </url>
   
   <url>
     <loc>https://sharadshriram.github.io/categories/</loc>
-    <lastmod>2020-02-27T19:13:14+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sharadshriram.github.io/posts/2020/2020-02-27-firstpost/</loc>
-    <lastmod>2020-02-27T19:13:14+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sharadshriram.github.io/categories/hugo/</loc>
-    <lastmod>2020-02-27T19:13:14+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sharadshriram.github.io/posts/</loc>
-    <lastmod>2020-02-27T19:13:14+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sharadshriram.github.io/</loc>
-    <lastmod>2020-02-27T19:13:14+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sharadshriram.github.io/tags/</loc>
-    <lastmod>2020-02-27T19:13:14+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sharadshriram.github.io/about/</loc>
   </url>
   
   <url>
@@ -51,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://sharadshriram.github.io/publications/</loc>
+    <loc>https://sharadshriram.github.io/research/</loc>
   </url>
   
   <url>
@@ -59,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://sharadshriram.github.io/teaching-and-talks/</loc>
+    <loc>https://sharadshriram.github.io/tags/</loc>
   </url>
   
 </urlset>
