@@ -9,7 +9,7 @@ My current research interests are broadly in the topics of Human-centered AI, Na
 An up-to-date list of publications is available on [Google Scholar](https://scholar.google.com/citations?user=N4S2OC0AAAAJ&hl=en)
 
 #### Peer-reviewed journal articles
-- S Agrawal, S Bhandari, A Bhattacharjee, A Deo, N M. Dixit, P Harsha, S Juneja, P Kesarwani, A K Swamy, P Patil, N Rathod, R Saptharishi, **S Shriram**, P Srivastava, R Sundaresan, N K Vaidhiyan, S Yasodharan. City-Scale Agent-Based Simulators for the Study of Non-Pharmaceutical Interventions in the Context of the COVID-19 Epidemic. [PDF](https://link.springer.com/article/10.1007/s41745-020-00211-3) | [arxiv](https://arxiv.org/abs/2008.04849v1)
+- S Agrawal, S Bhandari, A Bhattacharjee, A Deo, N M. Dixit, P Harsha, S Juneja, P Kesarwani, A K Swamy, P Patil, N Rathod, R Saptharishi, **S Shriram**, P Srivastava, R Sundaresan, N K Vaidhiyan, S Yasodharan. City-Scale Agent-Based Simulators for the Study of Non-Pharmaceutical Interventions in the Context of the COVID-19 Epidemic. [PDF](https://link.springer.com/article/10.1007/s41745-020-00211-3) [arxiv](https://arxiv.org/abs/2008.04849v1)
 
 
 #### Peer-reviewed conference articles
