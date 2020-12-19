@@ -1,0 +1,10 @@
+{%- for category in site.categories -%}
+  {%- if category[0] != page.category -%}
+    {%- continue -%}
+  {%- endif -%}
+
+  {% assign posts = category[1] -%}
+  {%- include posts.html posts = posts -%}
+
+  {%- break -%}
+{%- endfor -%}

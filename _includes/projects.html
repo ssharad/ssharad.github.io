@@ -1,0 +1,20 @@
+<section id="three">
+  <div class="container">
+    <h3>Recent Projects</h3>    
+    {% for project in site.data.project %}
+    <div class="features">
+      <article>
+        <a href="{{ project.url | relative_url }}" class="image">
+          <img src="/assets/images/{{ project.id }}.jpg" alt="">
+        </a>
+       
+        <div class="inner">
+          <h4>{{ project.name }}</h4>
+          <p>{{ project.description}}</p>
+          <!-- Add a fontawesome icon for github or link with content of project.url -->
+        </div>
+      </article>
+    </div>
+    {% endfor %}
+  </div>
+</section>

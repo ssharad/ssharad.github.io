@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Ported to Jekyll by DigitalAdapt.
+-->
+<html>
+<head>
+	{%- include head.html -%}
+</head>
+<body class="is-preload">
+	<!-- Header -->
+	<section id="header">
+		<header>
+			{%- include brand.html -%}
+		</header>
+		<nav id="nav">
+			{%- include nav.html -%}
+		</nav>
+		<footer>
+			{%- include icons.html -%}
+		</footer>
+	</section>
+
+	<!-- Wrapper -->
+	<div id="wrapper">
+
+		<!-- Main -->
+		<div id="main">
+			<section id="top">
+				<div class="container">
+					{{ content }}
+				</div>
+			</section>
+		</div>
+
+		<!-- Footer -->
+		<section id="footer">
+			{%- include footer.html -%}
+		</section>
+
+	</div>
+
+	<!-- Scripts -->
+	{%- include scripts.html -%}
+
+</body>
+</html>

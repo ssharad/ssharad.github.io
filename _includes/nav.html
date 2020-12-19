@@ -1,0 +1,15 @@
+  <ul>
+    {% for item in site.data.navigation %}
+    <li>
+      {% if page.url == item.link %}
+      <a href="{{ item.link }}" class="active">
+        {{ item.name }}
+      </a>
+      {% else %}
+      <a href="{{ item.link }}">
+        {{ item.name }}
+      </a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>

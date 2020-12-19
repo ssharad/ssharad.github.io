@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Research
+  link: /publications/
+- name: Teaching and Talks
+  link: /academia/
+- name: Blog
+  link: /blog.html
