@@ -1,5 +1,0 @@
-- name: MyCI
-  id: chatbot
-  year: 2018
-  url: https://sharadshriram.github.io/myci_campus_crowd_chatbot/
-  description: Telegram chatbot for campus information retreival tasks using crowd sourcing.
